@@ -1,0 +1,15 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "axios",
+  "author": "Kevin Huang",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "dependencies": {
+    "axios": "*",
+    "jest": "*"
+  }
+}
